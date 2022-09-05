@@ -1,0 +1,19 @@
+/* body {
+    margin: 0 auto;
+} */
+
+/* h1 {
+    margin: 30px 20px;
+}
+
+div {
+    height: 20px;
+    width: auto;
+    padding: 20px;
+    border: 5px dashed rgb(50, 18, 196);
+    margin: 20px;
+} */
+
+.done {
+    text-decoration: line-through;
+}
